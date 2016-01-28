@@ -11,7 +11,7 @@ author: nombre del autor <usuario@dominio.com>
 priority: optional
 
 # Section
-package-section: seccion_de_la_aplicacion
+section: metapackages
 
 # Desktop menu entry (man menufile)
 #menu-needs="X11|text|vc|wm"
